@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-28T13:11:45 PDT" name="Suite" finished-at="2022-10-28T13:11:52 PDT" duration-ms="7731">
+    <groups>
+    </groups>
+    <test started-at="2022-10-28T13:11:45 PDT" name="Test" finished-at="2022-10-28T13:11:52 PDT" duration-ms="7731">
+      <class name="com.nopcommerce.demo.testCases.Login">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.nopcommerce.demo.testCases.Login@2e8c1c9b]" started-at="2022-10-28T13:11:45 PDT" name="setUp" finished-at="2022-10-28T13:11:49 PDT" duration-ms="4155" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest()[pri:0, instance:com.nopcommerce.demo.testCases.Login@2e8c1c9b]" started-at="2022-10-28T13:11:49 PDT" name="LoginTest" finished-at="2022-10-28T13:11:52 PDT" duration-ms="3372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.nopcommerce.demo.testCases.Login@2e8c1c9b]" started-at="2022-10-28T13:11:52 PDT" name="tearDown" finished-at="2022-10-28T13:11:52 PDT" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nopcommerce.demo.testCases.Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
